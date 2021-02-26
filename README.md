@@ -14,6 +14,13 @@ RevitAPI Framework Support Full Version
 ```
 Install-Package Chuongmep.RevitAPI -Version 1.0.0
 ```
+Manual : Search Chuongmep in nuget package manager
+
+![](assets/_Image_11d37eee-21a2-43e1-8dc5-d187018cdb7c.png)
+
+Install/Reinstall Package
+
+![](assets/_Image_3a1067d7-8c6a-4324-8d9b-500e56d0c8cc.png)
 
 ### .NET CLI
 
