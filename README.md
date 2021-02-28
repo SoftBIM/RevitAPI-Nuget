@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/twitter/follow/chuongmep?style=social&logo=twitter"
             alt="follow on Twitter"></a>
             
-RevitAPI Framework Support Full Version
+RevitAPI Framework Support Full Version Support CI/CD Automatic In Github
 
 ### NuGet packages
 
