@@ -18,10 +18,10 @@ Install-Package Chuongmep.RevitAPI -Version 1.0.0
 |:-|:-|
 |  Revit 2015 | .Net 4.5  |
 |  Revit 2016 | .Net 4.5  |
-|  Revit 2017 | .Net 4.6  |
-|  Revit 2018 | .Net 4.6  |
-|  Revit 2019 | .Net 4.7  |
-|  Revit 2020 | .Net 4.7  |
+|  Revit 2017 | .Net 4.6.2  |
+|  Revit 2018 | .Net 4.6.2  |
+|  Revit 2019 | .Net 4.7.2  |
+|  Revit 2020 | .Net 4.7.2  |
 |  Revit 2021 | .Net 4.8  |
 
 Manual : Search Chuongmep in nuget package manager
