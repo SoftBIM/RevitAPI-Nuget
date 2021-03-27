@@ -14,6 +14,15 @@ RevitAPI Framework Support Full Version Support CI/CD Automatic In Github
 ```
 Install-Package Chuongmep.RevitAPI -Version 1.0.0
 ```
+Revit Version	.Net Farmwork Version
+Revit 2015	.Net 4.5
+Revit 2016	.Net 4.5
+Revit 2017	.Net 4.6
+Revit 2018	.Net 4.6
+Revit 2019	.Net 4.7
+Revit 2020	.Net 4.7
+Revit 2021	.Net 4.8
+
 Manual : Search Chuongmep in nuget package manager
 
 ![](assets/_Image_11d37eee-21a2-43e1-8dc5-d187018cdb7c.png)
