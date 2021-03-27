@@ -24,6 +24,17 @@ Install-Package Chuongmep.RevitAPI -Version 1.0.0
 |  Revit 2020 | .Net 4.7.2  |
 |  Revit 2021 | .Net 4.8  |
 
+### Library Include
+
+- [X] AdWindows.dll
+- [X] RevitAddInUtility.dll
+- [X] RevitAPI.dll
+- [X] RevitAPIUI.dll
+- [X] RevitAPIIFC.dll
+- [X] RevitAPIMacros.dll
+- [X] RevitAPIUIMacros.dll
+- [X] UIFramework.dll
+
 Manual : Search Chuongmep in nuget package manager
 
 ![](assets/_Image_11d37eee-21a2-43e1-8dc5-d187018cdb7c.png)
