@@ -23,6 +23,7 @@ Install-Package Chuongmep.RevitAPI -Version 1.0.0
 |  Revit 2019 | .Net 4.7.2  |
 |  Revit 2020 | .Net 4.7.2  |
 |  Revit 2021 | .Net 4.8  |
+|  Revit 2022 | .Net 4.8  |
 
 ### Library Include
 
